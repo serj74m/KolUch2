@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-2 tvg-name="Сварожичи ТВ" group-title="Украина", Сварожичи ТВ
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
 #EXTINF:0 tvg-rec="3",Первый HD
 #EXTGRP:Общие
 http://e57d2345.russtv.net/iptv/W7WK24EPWRY2G5/204/index.m3u8
