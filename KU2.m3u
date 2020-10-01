@@ -1,7 +1,134 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="3",Первый HD
-#EXTGRP:Общие
-http://e57d2345.russtv.net/iptv/W7WK24EPWRY2G5/204/index.m3u8
+#EXTINF:-1,Сварожичи
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:0,Prime
+http://91.230.214.75/LIVE/1/600.m3u8
+#EXTINF:0,Primul în Moldova
+https://video.a-tv.md/hls/tv.m3u8
+#EXTINF:0,Jurnal TV Moldova 
+http://fr01.spr24.net/17621/mpegts?token=XREcH7FkHCpbWv
+#EXTINF: -1,Jurnal TV
+http://212.0.215.106/JurnalTV/mpegts
+#EXTINF:0,Publika TV  
+https://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF: -1,Publika
+http://212.0.215.106:80/PublikaTV/mpegts
+#EXTINF:0,Moldova 1
+http://live.trm.md:1935/live/_definst_/MoldovaUnu1/chunklist_w866294327.m3u8
+#EXTINF:0,Moldova 2
+http://live.trm.md:1935/live/_definst_/MoldovaDoi2/chunklist_w1306778223.m3u8
+#EXTINF:0,НТВ Молдова
+http://93.115.137.166/hls/ntvm.m3u8
+#EXTINF:0,Canal 2
+http://91.230.214.75/LIVE/2/index.m3u8
+#EXTINF:0,Canal 3
+http://91.230.214.75/LIVE/3/2000.m3u8
+#EXTINF:-1,Kvartal TV
+http://212.0.215.115/KvartalTV/playlist.m3u8
+#EXTINF: -1,STS Mega
+http://212.0.215.106/STS/mpegts
+#EXTINF:-1,ТНТ Exclusive 
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1,RTR Moldova
+http://212.0.215.106/RTR/mpegts
+#EXTINF: -1,N4
+http://212.0.215.106/N4/mpegts
+#EXTINF: -1,Mир
+http://212.0.215.106/Mir/mpegts
+#EXTINF: -1,PEH TB MOLDOVA
+http://212.0.215.106/PEHTB/mpegts
+#EXTINF:-1,Рен ТВ International
+http://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1,Рен ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1,ACCENT TV
+http://178.18.45.214:6502
+#EXTINF:-1,Accent TV
+http://video.a-tv.md/hls/accent.m3u8
+#EXTINF: -1,Domasnii
+http://212.0.215.106/SET/mpegts
+#EXTINF: -1,Televisiunea Centrala
+http://212.0.215.106/EuroTV/mpegts
+#EXTINF:-1,TVC21
+http://212.0.215.115/TVC21/mpegts
+#EXTINF: -1,Agro TV
+http://212.0.215.106/AgroTV/mpegts
+#EXTINF: -1,Soroca tv
+http://212.0.215.106/SorTV/mpegts
+#EXTINF:-1,DROCHIA TV
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF:-1,btv
+http://178.168.90.137:8000/play/1024/index.m3u8
+#EXTINF:0,Balți TV
+http://77.89.199.174:81/hls/live2.m3u8
+#EXTINF: -1,TV8
+http://212.0.215.106/TV8/mpegts
+#EXTINF: -1,TV Prim
+http://212.0.215.106/TVPrim/index.m3u8
+#EXTINF: -1,Cimislia TV
+http://212.0.215.106/MediaTV/mpegts
+#EXTINF:0,Canal Regional
+https://canalregional.md/tv/live/canalregional.m3u8
+#EXTINF:-1,VOCEA BASARABIEI 
+http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
+#EXTINF: -1,Pro TV Chisinau
+http://212.0.215.106/ProTV/mpegts
+#EXTINF:-1,PRO TV CHISINAU
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0,PRO TV INTERNATIONAL
+http://78.109.108.62:2001/protv
+#EXTINF: -1,Kanal D
+http://212.0.215.106/KanalD/mpegts
+#EXTINF:-1,TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:-1,TVR 2 
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:-1,TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:-1,TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:-1,TVR International
+http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
+#EXTINF: -1,TV national
+http://212.0.215.106/National/mpegts
+#EXTINF: -1,10 TV
+http://212.0.215.106/10TV/mpegts
+#EXTINF: -1,MBC
+http://212.0.215.106/MBC/mpegts
+#EXTINF:0,Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:0,BO TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,BO CLASIC
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,norok tv
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF: -1,Noroc TV
+http://212.0.215.106/NorocTV/mpegts
+#EXTINF:-1,TEZAUR FOLC 
+http://77.89.221.150/tezaur/index.m3u8
+#EXTINF: -1,Busuioc tv
+http://212.0.215.106/Busuioc/mpegts
+#EXTINF: -1,Etno TV
+http://212.0.215.106/EtnoTV/mpegts
+#EXTINF: -1,Favorit TV
+http://212.0.215.106/Favorit/mpegts
+#EXTINF: -1,Gurinel
+http://212.0.215.106/Gurinel/mpegts
+#EXTINF: -1,Taraf TV
+http://212.0.215.106/TarafTV/mpegts
+#EXTINF: -1,Zona M TV Moldova
+http://212.0.215.106/ZonaM/mpegts
+#EXTINF: -1,Ru TV Moldova
+http://212.0.215.106/RuTV/mpegts
+#EXTINF: -1,Gold tv
+http://212.0.215.106/GoldTV/mpegts
+#EXTINF: -1,UTV
+http://212.0.215.106/UTV/mpegts
+#EXTINF: -1,TV axial
+http://212.0.215.106/AxialTV/mpegts
+#EXTINF:-1,Tezaur TV
+http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
 #EXTINF:0 tvg-rec="3",Первый канал
 #EXTGRP:Общие
 http://e57d2345.russtv.net/iptv/W7WK24EPWRY2G5/127/index.m3u8
