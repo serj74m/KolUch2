@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Сварожичи
-http://tv.tv-project.com:1935/live/live1/playlist.m3u8
 #EXTINF:0,Prime
 http://91.230.214.75/LIVE/1/600.m3u8
 #EXTINF:0,Primul în Moldova
@@ -51,6 +49,8 @@ http://212.0.215.106/SET/mpegts
 http://212.0.215.106/EuroTV/mpegts
 #EXTINF:-1,TVC21
 http://212.0.215.115/TVC21/mpegts
+#EXTINF:-1,Сварожичи
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
 #EXTINF: -1,Agro TV
 http://212.0.215.106/AgroTV/mpegts
 #EXTINF: -1,Soroca tv
