@@ -31,14 +31,6 @@ http://212.0.215.106/N4/mpegts
 http://212.0.215.106/Mir/mpegts
 #EXTINF: -1,PEH TB MOLDOVA
 http://212.0.215.106/PEHTB/mpegts
-#EXTINF:-1,Рен ТВ International
-http://sc.id-tv.kz/RenTV_38_39.m3u8
-#EXTINF:-1,Рен ТВ HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1,ACCENT TV
-http://178.18.45.214:6502
-#EXTINF:-1,Accent TV
-http://video.a-tv.md/hls/accent.m3u8
 #EXTINF: -1,Domasnii
 http://212.0.215.106/SET/mpegts
 #EXTINF: -1,Televisiunea Centrala
@@ -49,52 +41,22 @@ http://212.0.215.115/TVC21/mpegts
 http://212.0.215.106/AgroTV/mpegts
 #EXTINF: -1,Soroca tv
 http://212.0.215.106/SorTV/mpegts
-#EXTINF:-1,DROCHIA TV
-https://hls.drochia.tv/tv/web.m3u8
-#EXTINF:-1,btv
-http://178.168.90.137:8000/play/1024/index.m3u8
-#EXTINF:0,Balți TV
-http://77.89.199.174:81/hls/live2.m3u8
 #EXTINF: -1,TV8
 http://212.0.215.106/TV8/mpegts
 #EXTINF: -1,TV Prim
 http://212.0.215.106/TVPrim/index.m3u8
 #EXTINF: -1,Cimislia TV
 http://212.0.215.106/MediaTV/mpegts
-#EXTINF:0,Canal Regional
-https://canalregional.md/tv/live/canalregional.m3u8
 #EXTINF:-1,VOCEA BASARABIEI 
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 #EXTINF: -1,Pro TV Chisinau
 http://212.0.215.106/ProTV/mpegts
-#EXTINF:-1,PRO TV CHISINAU
-http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0,PRO TV INTERNATIONAL
-http://78.109.108.62:2001/protv
 #EXTINF: -1,Kanal D
 http://212.0.215.106/KanalD/mpegts
-#EXTINF:-1,TVR 1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:-1,TVR 2 
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:-1,TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:-1,TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:-1,TVR International
-http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
 #EXTINF: -1,TV national
 http://212.0.215.106/National/mpegts
 #EXTINF: -1,10 TV
 http://212.0.215.106/10TV/mpegts
-#EXTINF: -1,MBC
-http://212.0.215.106/MBC/mpegts
-#EXTINF:0,Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:0,BO TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,BO CLASIC
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,norok tv
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 #EXTINF: -1,Noroc TV
@@ -127,56 +89,12 @@ http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,KISS TV 
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_b1600000.m3u8
-#EXTINF:0,MOOZ Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ RO
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,TV1000 HD
-http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8
-#EXTINF:0,TV1000 Action HD
-http://live-ng-01.more.tv/hls/TV1000_Action_HD/master.m3u8
-#EXTINF:0,TV1000 Русское кино HD
-http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
-#EXTINF:0,ViP Premiere HD
-http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8
-#EXTINF:0,ViP Megahit HD
-http://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8
-#EXTINF:0,ViP Comedy HD
-http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8
-#EXTINF:0,ViP Serial HD
-http://live-ng-01.more.tv/hls/VIP_SERIAL/master.m3u8
-#EXTINF:0,Viasat Explore HD
-http://live-ng-01.more.tv/hls/Viasat_Explore_HD/master.m3u8
-#EXTINF:0,Viasat History HD
-http://live-ng-01.more.tv/hls/Viasat_History_HD/master.m3u8
-#EXTINF:0,Viasat Nature HD
-http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
-#EXTINF:0,National Geographic HD
-http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
 #EXTINF: -1,Travel
 http://212.0.215.106/Travel/mpegts
 #EXTINF: -1,Discowery
 http://212.0.215.106/Discovery/mpegts
 #EXTINF: -1,DTX
 http://212.0.215.106/DTX/mpegts
-#EXTINF:-1,Загородный int
-http://dmitry-tv.my1.ru/his/yatv/CH_ZAGORODNY_INT.m3u8
-#EXTINF:-1,Охотник и Рыболов Int
-http://dmitry-tv.my1.ru/his/yatv/CH_OHOTNIKIRYBOLOV_INT.m3u8
-#EXTINF:-1,Терра Инкогнита
-http://dmitry-tv.my1.ru/his/yatv/CH_TERRAINCOGNITA.m3u8
-#EXTINF:-1,Моя Планета
-http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
-#EXTINF:-1,Ocean TV HD
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
-#EXTINF:0,Discovery Channel
-http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
-#EXTINF:0,National Geographic
-http://185.22.183.155:8085/media/hls_183_155/natgeo/index.m3u8
 #EXTINF: -1,TV1000
 http://212.0.215.106/TV1000/mpegts
 #EXTINF: -1,Кино ТВ
@@ -195,100 +113,6 @@ http://212.0.215.106/Fox/mpegts
 http://212.0.215.106/StarCinema/mpegts
 #EXTINF: -1,FilmUaDrama
 http://212.0.215.106/FilmUaDrama/mpegts
-#EXTINF:-1,Мир Сериала
-http://dmitry-tv.my1.ru/his/yatv/CH_MIRSERIALA.m3u8
-#EXTINF:0,Русский Роман HD
-http://93.94.155.151:8080/russkiy_roman/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sony Sci-Fi
-http://79.142.197.7:8888/Sony_Sci_Fi/index.m3u8
-#EXTINF:-1,Amedia Hit HD
-http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
-#EXTINF: -1,Minimax TV
-http://212.0.215.106/Minimax/mpegts
-#EXTINF:-1 ,Disney
-http://89.37.104.9/DisneyChannel/mpegts
-#EXTINF:0,Cartoon Network HD
-http://live-ng-01.more.tv/hls/Cartoon_Network_HD/master.m3u8
-#EXTINF:0,Мультиландия
-http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
-#EXTINF:-1,Смайлик ТВ HD
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:0,Акуджи ТВ
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,Kino 24
-http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1, Классика кино HD
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:0,Shot TV
-http://persik.tv/stream/7725/408679/10454.m3u8
-#EXTINF:-1,A2
-http://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:-1,Кинозал-VHS 90s
-http://v2.catcast.me/content/37925/index.m3u8
-#EXTINF:0,VHS КАСЕТА 90
-https://v2.catcast.tv/content/37301/index.m3u8
-#EXTINF:-1,Кинозал VHS
-http://v2.catcast.me/content/36251/index.m3u8
-#EXTINF:-1,Кинозал СССР 
-https://v2.catcast.me/content/36506/index.m3u8
-#EXTINF:-1,Кинозал Комедии 
-https://v2.catcast.me/content/36168/index.m3u8
-#EXTINF:-1,Кинозал УЖАСЫ
-https://v2.catcast.tv/content/36277/index.m3u8
-#EXTINF:-1,Кинозал 1
-https://5656.ga/ch1.m3u8
-#EXTINF:-1,Кинозал 2
-https://5656.ga/ch2.m3u8
-#EXTINF:-1,Кинозал 3
-https://5656.ga/ch3.m3u8
-#EXTINF:-1,Кинозал 4
-https://5656.ga/ch4.m3u8
-#EXTINF:-1,Кинозал 5
-https://5656.ga/ch5.m3u8
-#EXTINF:-1,Кинозал 6
-https://5656.ga/ch6.m3u8
-#EXTINF:-1,Кинозал 7
-https://5656.ga/ch7.m3u8
-#EXTINF:-1,Кинозал 8
-https://5656.ga/ch8.m3u8
-#EXTINF:-1,Кинозал 9
-https://5656.ga/ch9.m3u8
-#EXTINF:-1,Кинозал 10
-https://5656.ga/ch10.m3u8
-#EXTINF:-1,Кинозал 11
-https://5656.ga/ch11.m3u8
-#EXTINF:-1,Кинозал 12
-https://5656.ga/ch12.m3u8
-#EXTINF:-1,Кинозал 13
-https://5656.ga/ch13.m3u8
-#EXTINF:-1,Кинозал 14
-https://5656.ga/ch14.m3u8
-#EXTINF:-1,Кинозал 15
-https://5656.ga/ch15.m3u8
-#EXTINF:-1,Кинозал 16
-https://5656.ga/ch16.m3u8
-#EXTINF:-1, Viasat Sport
-http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1,Матч! ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?version=2
-#EXTINF:0,Eurosport 1 HD
-http://live-ng-01.more.tv/hls/Eurosport_Rus_HD/master.m3u8
-#EXTINF:0,Eurosport 2
-http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
-#EXTINF:-1,Extreme Sports
-http://77.89.204.107:8000/play/a046/index.m3u8
-#EXTINF:-1,Viasat Sport
-http://77.89.204.107:8000/play/a045/index.m3u8
-#EXTINF:-1,Моя Планета
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,CGTN русский
-http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1,ISTV
-http://188.35.9.26:2051/udp/238.0.2.1:69000
-#EXTINF:-1,Новороссия ТВ 
-http://dprtv.phoenix-dnr.ru/novorossia-tv
-#EXTINF:-1,VRT.TV 
-http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
 #EXTINF:-1,Одинцово ТВ
 http://185.18.4.16/live/3m/playlist.m3u8
 #EXTINF:-1,mtb
